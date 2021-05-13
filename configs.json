@@ -1,0 +1,10 @@
+{
+  "webpages": [
+    "https://www.google.com/",
+    "https://www.amazon.com"
+  ],
+  "timeout": 5,
+  "sleep-time": 15,
+  "interface": "wlan0",
+  "self-restart-time": 300
+}
